@@ -54,7 +54,7 @@ Este repositório contém o backend e o frontend do projeto.
 - npm install
 - npm run dev
 
-#👤 Colaboração
+# 👤 Colaboração
 
 Quer contribuir? Basta abrir uma issue, enviar sugestões ou fazer um pull request.
 O projeto está sempre aberto para melhorias.
