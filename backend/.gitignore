@@ -1,0 +1,66 @@
+# ==========================
+# Node
+# ==========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+
+# ==========================
+# Logs
+# ==========================
+logs/
+*.log
+*.gz
+
+# ==========================
+# Environment 
+# ==========================
+.env
+.env.local
+.env.production
+.env.development
+.env.test
+.envrc
+
+# ==========================
+# Build output
+# ==========================
+dist/
+build/
+
+# ==========================
+# Cache
+# ==========================
+.cache/
+coverage/
+tmp/
+temp/
+.pnp/
+.pnp.js
+
+# ==========================
+# Linux / macOS / Windows 
+# ==========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# ==========================
+# VSCode / IDEs
+# ==========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================
+# Docker
+# ==========================
+docker-data/
+docker/*-data/
+*.tar
