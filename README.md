@@ -62,3 +62,6 @@ O projeto está sempre aberto para melhorias.
 # 📄 Licença
 
 Livre para uso acadêmico e aprendizado.
+
+# Projetado por:
+- Luís Paulo e Hirlas Michael
